@@ -1,6 +1,7 @@
 #Documentez votre système de gestion de pizzeria
 Projet d'étude sur la production d'une documentation d'une application de gestion de pizzéria. Le repository contient les documents suivants ainsi que les images et diagrammes.
 
+Fichiers disponibles sur GitHub
 https://github.com/pedsf1968/OC-P8.git
 
 #Un dossier de conception fonctionnelle 
@@ -61,3 +62,13 @@ OC Pizza Diagramme de cas d'utilisation production.png
 OC Pizza Diagramme de cas d'utilisation stock.png
 OC Pizza Diagramme de cas d'utilisation utilisateur.png
 OC Pizza Diagramme de cas d'utilisation vente.png
+
+#MDP
+OC Pizza Modèle Physique de Données.png
+
+#annexe
+gestion-api-prod.properties
+production-api-prod.properties
+stock-api-prod.properties
+user-api-prod.properties
+web-api-prod.properties
